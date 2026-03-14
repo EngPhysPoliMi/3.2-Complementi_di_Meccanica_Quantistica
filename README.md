@@ -1,6 +1,6 @@
-# x.y - Template
+# 3.2 - Complementi di Meccanica Quantistica
 
-Repository for "Template".
+Repository for "Complementi di Meccanica Quantistica".
 
 
 ## Use instructions
